@@ -114,3 +114,5 @@ As stated in the beginning, the final model dataset (for both train and test dat
 1. My Jupyter Notebook, which includes all my processes from data extraction, to cleaning, engineering, model training and test set treatment.
 2. My final dataframe, 'y_test_prediction_df.csv', which includes the predicted 'y' values (in other words, 'Survived') based on the test set, as well as their accompanying 'PassengerId'.
 3. This README.md file.
+
+### Let me know if there are any ways I can improve my process for a higher accuracy score!
