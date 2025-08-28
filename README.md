@@ -52,7 +52,7 @@ The following differences in test_set required a slightly different course of ac
 ## Exploratory Data Analysis Findings
 1. There are twice as many female than male survivors overall (Figure #1). On the other hand, there are almost 6 times as many male non-survivors than female non-survivors (Figure #2).
 ![Figure #1](https://github.com/eeeraiii/kaggle_titanic_competition/blob/main/Fig.%201.png)
-*Figure #1: Sex composition of survivors*
+<div align='center'>*Figure #1: Sex composition of survivors*</div>
 
 ![Figure #2](/Users/elimatthewordonez/Dropbox/OTHERS/Data Analytics Training/Personal Projects/Kaggle Titanic Competition/Submissions/Submission 3/Fig. 2.png)
 *Figure #2: Sex composition of non-survivors*
