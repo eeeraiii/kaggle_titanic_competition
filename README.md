@@ -52,44 +52,44 @@ The following differences in test_set required a slightly different course of ac
 ## Exploratory Data Analysis Findings
 **1. There are twice as many female than male survivors overall (Figure #1). On the other hand, there are almost 6 times as many male non-survivors than female non-survivors (Figure #2).**
 ![Figure #1](https://github.com/eeeraiii/kaggle_titanic_competition/blob/main/Fig.%201.png)
-<div align='center'>*Figure #1: Sex composition of survivors*</div>
+<div align='center'>Figure #1: Sex composition of survivors</div>
 
 <br>
 
 ![Figure #2](https://github.com/eeeraiii/kaggle_titanic_competition/blob/main/Fig.%202.png)
-<div align='center'>*Figure #2: Sex composition of non-survivors*</div>
+<div align='center'>Figure #2: Sex composition of non-survivors</div>
 
 <br>
 
 **2. Whereas Pclass 1 had the most survivors (Figure #3), Pclass 3 had the most non-survivors (Figure #4).**
 ![Figure #3](https://github.com/eeeraiii/kaggle_titanic_competition/blob/main/Fig.%203.png)
-<div align='center'>*Figure #3: Pclass composition among survivors*</div>
+<div align='center'>Figure #3: Pclass composition among survivors</div>
 
 <br>
 
 
 ![Figure #4](https://github.com/eeeraiii/kaggle_titanic_competition/blob/main/Fig.%204.png)
-<div align='center'>*Figure #4: Pclass composition among non-survivors*</div>
+<div align='center'>Figure #4: Pclass composition among non-survivors</div>
 
 <br>
 
 
 **3. The overwhelming majority of non-survivors had a null 'Cabin' value**
 ![Figure #5](https://github.com/eeeraiii/kaggle_titanic_competition/blob/main/Fig.%205.png)
-<div align='center'>*Figure #5: 'HasCabin' composition among non-survivors*</div>
+<div align='center'>Figure #5: 'HasCabin' composition among non-survivors</div>
 
 <br>
 
 
 **4. In terms of party size, assengers who travelled alone were least likely to survive.**
 ![Figure #6](https://github.com/eeeraiii/kaggle_titanic_competition/blob/main/Fig.%206.png)
-<div align='center'>*Figure #6: 'PartySize' composition among all observations*</div>
+<div align='center'>Figure #6: 'PartySize' composition among all observations</div>
 
 <br>
 
 **5. In terms of 'Fare', while most paid < $30 to board the Titanic, those who paid more were more likely to survive.**
 ![Figure #7](https://github.com/eeeraiii/kaggle_titanic_competition/blob/main/Fig.%207.png)
-<div align='center'>*Figure #7: 'Fare' composition among all observations*</div>
+<div align='center'>Figure #7: 'Fare' composition among all observations</div>
 
 <br>
 
