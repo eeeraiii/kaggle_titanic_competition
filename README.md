@@ -53,7 +53,7 @@ The following differences in test_set required a slightly different course of ac
 1. There are twice as many female than male survivors overall (Figure #1). On the other hand, there are almost 6 times as many male non-survivors than female non-survivors (Figure #2).
 <div style="text-align:center; margin-bottom: 20px;">
   <img src="https://github.com/eeeraiii/kaggle_titanic_competition/blob/main/Fig.%201.png" alt="Figure #1" />
-  <p>*Figure #1: Sex composition of survivors*</p>
+  <p>Figure #1: Sex composition of survivors</p>
 </div>
 
 ![Figure #2](https://github.com/eeeraiii/kaggle_titanic_competition/blob/main/Fig.%202.png)
